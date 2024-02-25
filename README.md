@@ -13,14 +13,6 @@
 - MongoDB
 - Chakra UI (2.2.4)
 
-## Team members:
-
-1. Rajashree Chakraborty
-2. Manish Tiwari
-3. Md. Naushad Ahamed
-4. Sunil sahu
-5. Shahrukh
-
 ## Project Details:
 MyFitnessPal is a smartphone app and website that tracks diet and exercise. This is a MERN full stack collaborative project which is a clone of the [myFitnessPal.com](https://www.myfitnesspal.com/) website.
 
